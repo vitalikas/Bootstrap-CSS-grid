@@ -1,0 +1,23 @@
+.column1 {
+	background-color: #6D9EEB;
+	height: 40px;
+}
+
+.column2 {
+	background-color: #0B5394;
+	height: calc(100vh - 40px);
+}
+
+.column3 {
+	height: calc(100vh - 40px);
+}
+
+.column4 {
+	background-color: #CFE2F3;
+	height: calc(100vh - 80px);
+}
+
+.column5 {
+	background-color: #6D9EEB;
+	height: 40px;
+}
